@@ -17,7 +17,7 @@ Una aplicación de temporizador Pomodoro construida con React, diseñada para ay
 
 ### Reinicio del Temporizador
 
-- **Reiniciar:** Restablece el temporizador, el modo y todas las estadísticas. El temporizador vuelve al modo productivo y se configura para 25 minutos.
+- **Reiniciar:** Restablece el temporizador, el modo y todas las estadísticas. El temporizador vuelve al modo productivo y se configura para 50 minutos.
 
 ### Estadísticas de Pomodoros
 
@@ -72,7 +72,7 @@ This React application is a Pomodoro timer that alternates between productive wo
 
 ## Features
 
-- **Timer Functionality**: The application provides a timer that counts down from 25 minutes for productive work sessions and 5 minutes for breaks.
+- **Timer Functionality**: The application provides a timer that counts down from 50 minutes for productive work sessions and 10 minutes for breaks.
 - **Mode Switching**: Automatically switches between "Productive" and "Break" modes when the timer reaches zero.
 - **Sound Notifications**: Plays different sounds when switching between modes and when starting the timer.
 - **Start/Stop Timer**: Users can start or stop the timer with a single button.
